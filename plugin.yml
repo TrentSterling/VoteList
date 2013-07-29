@@ -1,0 +1,11 @@
+name: VoteList
+main: com.trentsterling.votelist.VoteListPlugin
+version: 0.1
+description: Temporary fix for /vote
+author: Trent Sterling
+load:
+    -POSTWORLD
+commands:
+    vote:
+        description: Temporary fix for /vote
+        usage: /vote
