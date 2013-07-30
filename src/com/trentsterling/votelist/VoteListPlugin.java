@@ -20,19 +20,19 @@ public class VoteListPlugin extends JavaPlugin
 	  {
 	    sender.sendMessage(ChatColor.AQUA + "========== Vote List ==========");
 
-	    sender.sendMessage(ChatColor.LIGHT_PURPLE + "Site 1:");
-	    sender.sendMessage("minecraftservers.org/server/81816");
+	    //sender.sendMessage(ChatColor.LIGHT_PURPLE + "Site 1:");
+	    //sender.sendMessage("minecraftservers.org/server/81816");
 	    
-	    sender.sendMessage(ChatColor.LIGHT_PURPLE + "Site 2:");
+	    sender.sendMessage(ChatColor.LIGHT_PURPLE + "Site 1:");
 	    sender.sendMessage("www.planetminecraft.com/server/ecruos-gaming/vote");
 	    
-	    sender.sendMessage(ChatColor.LIGHT_PURPLE + "Site 3:");
+	    sender.sendMessage(ChatColor.LIGHT_PURPLE + "Site 2:");
 	    sender.sendMessage("topg.org/Minecraft/in-366959");
 	    
-	    sender.sendMessage(ChatColor.LIGHT_PURPLE + "Site 4:");
+	    sender.sendMessage(ChatColor.LIGHT_PURPLE + "Site 3:");
 	    sender.sendMessage("minecraft-server-list.com/server/166883/");
 	    
-	    sender.sendMessage(ChatColor.LIGHT_PURPLE + "Site 5:");
+	    sender.sendMessage(ChatColor.LIGHT_PURPLE + "Site 4:");
 	    sender.sendMessage("www.minecraftiplist.com/server/ecruos-gaming-1167.html");
 
 	    sender.sendMessage("*" + ChatColor.AQUA + "Vote for Ecruos Gaming's Minecraft servers!");
